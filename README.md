@@ -14,7 +14,7 @@ In this project I carry out a data cleaning with the help of pandas library and 
 
 - I inquire into the deaths caused having caused the attack between both sexes.
 
-### 2. Hipothesis: Shark attacks in Spain according to autonomous communities over the years. 🇪🇸
+### 2. Hipothesis: Shark attacks in Spain according to autonomous communities over the years. 
 
 -  From the original dataframe I analyze the country Spain, and group by autonomous      communities.
 
@@ -23,6 +23,12 @@ In this project I carry out a data cleaning with the help of pandas library and 
 - I group these attacks over the years.
 
 
-
+                   ---------------------------------------
 
 ####  WHY STUDY SHARK ATTACKS? http://www.sharkattackfile.net/whystudy.htm
+
+“By understanding when and why shark attacks occur, it is possible to lessen the likelihood of these incidents. “
+
+“However, when all known case histories worldwide are examined, much is revealed about species behavior, and specific patterns emerge. “
+
+“for every human killed by a shark, our species slaughters millions of sharks - about 73 million sharks last year.”
