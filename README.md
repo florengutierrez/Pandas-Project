@@ -23,7 +23,7 @@ In this project I carry out a data cleaning with the help of pandas library and 
 - I group these attacks over the years.
 
 
-                   ------------------------------------------------                                             
+
 
 ####  WHY STUDY SHARK ATTACKS? http://www.sharkattackfile.net/whystudy.htm
 
