@@ -2,7 +2,7 @@
 
 ## Pandas - Project 🐼
 
-In this project I carry out a data cleaning with the help of pandas library and once I have the cleanest dataframe, I launch two hypotheses to work on them.
+In this project I carry out a data cleaning with the help of pandas library and once I have the cleanest dataset, I launch two hypotheses to work on them.
 
 ### 1. Hipothesis:  Sharks pretty much only bite men. 🦈
 
